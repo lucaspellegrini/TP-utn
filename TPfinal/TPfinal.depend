@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1592513520 source:c:\users\administrador\desktop\tp generala\tpfinal\main.cpp
+	<iostream>
+	<cstdlib>
+	"TPfinal.h"
+
+1592583816 c:\users\administrador\desktop\tp generala\tpfinal\tpfinal.h
+
+1592583816 source:c:\users\administrador\desktop\tp generala\tpfinal\tpfinal.cpp
+	<cstdlib>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"TPfinal.h"
+
+1571584339 c:\users\administrador\desktop\tp generala\tpfinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
